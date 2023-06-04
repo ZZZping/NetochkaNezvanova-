@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.7)  4 JUN 2023 19:31
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.7)  4 JUN 2023 22:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -727,7 +727,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 
-] [2] [3] [4] [5]
+]
+Underfull \vbox (badness 1377) has occurred while \output is active []
+
+ [2] [3] [4] [5]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
@@ -736,18 +739,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [7]
 Underfull \vbox (badness 3590) has occurred while \output is active []
 
- [8] [9] [10] (../out/.texout/ndqk.aux)
+ [8] [9] [10] [11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12] [13] [14] (../out/.texout/ndqk.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 21435 strings out of 492909
- 471899 string characters out of 6136300
- 579655 words of memory out of 5000000
- 25249 multiletter control sequences out of 15000+600000
- 553883 words of font info for 72 fonts, out of 8000000 for 9000
+ 21532 strings out of 492909
+ 477609 string characters out of 6136300
+ 581655 words of memory out of 5000000
+ 25344 multiletter control sequences out of 15000+600000
+ 559904 words of font info for 75 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  54i,7n,68p,3240b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ../out/.texout/ndqk.pdf (10 pages).
+Output written on ../out/.texout/ndqk.pdf (14 pages).
