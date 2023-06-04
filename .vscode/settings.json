@@ -1,0 +1,17 @@
+{
+    "latex-workshop.latex.outDir": "../out/.texout",
+    "latex-workshop.latex.tools": [
+        {
+        "name": "xelatex",
+        "command": "xelatex",
+        "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "-pdf",
+        "--output-directory=%OUTDIR%",
+        "%DOC%"
+        ]
+        }
+    ]
+}
